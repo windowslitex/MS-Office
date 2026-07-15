@@ -1,0 +1,4 @@
+1. After Install complete 
+2. Open "Office-Activator" folder
+3. Inside one file will be there like "Office Activator-Offline"
+4. Run as Admin - Works in Offline and Online both
